@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
-Student Name: YOUR NAME  
-Roll Number: YOUR ROLL NUMBER  
+Student Name: GLADSON SAMUEL  
+Roll Number: 24MIM10131  
 
 Chosen Software: Git
 
